@@ -193,10 +193,10 @@ Démographie : ratio de genre 59% masculin / 41% féminin, distribution par tran
 
 Revenus : comparaison des salaires par niveau d'études et par genre, corrélation âge / salaire par poste et département.
 
-![Vue d'ensemble du dashboard](docs/images/dashboard_overview.png)
+![Vue d'ensemble du dashboard](visuels/Images/Dashboard_overview.png)
 
 ### Détails — Registre des employés
 
 Liste exhaustive et filtrable par ID, données démographiques, fonction, localisation, salaire, statut et ancienneté.
 
-![Détails du registre des employés](docs/images/dashboard_details.png)
+![Détails du registre des employés](visuels/Images/Dashboard_details.png)
