@@ -96,15 +96,12 @@ dashboard-rh-tableau/
 ├── data/
 │   └── hr_employees.csv        # Jeu de données RH généré
 │
-├── tableau/
-│   └── dashboard_rh.twbx       # Fichier source du dashboard
-│
-├── docs/
+├── visuels/
 │   └── images/
-│       ├── business_request.png
 │       ├── dashboard_overview.png
 │       └── dashboard_details.png
-│
+│       
+└── README.md
 
 ```
 
